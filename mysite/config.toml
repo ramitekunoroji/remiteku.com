@@ -77,7 +77,7 @@ disableHugoGeneratorInject = false
 
   # Default theme "light" or "dark"
   defaultTheme = "dark"
-  #themeColor = "#073642"
+  #themeColor = "#252627"
 
   [params.logo]
     logoText     = "$ cd /home/"
@@ -90,16 +90,11 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "ramiteku@gmail.com"
 
   [[params.social]]
     name = "github"
     url  = "https://github.com/"
-
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
-
 
 [menu]
   [[menu.main]]
