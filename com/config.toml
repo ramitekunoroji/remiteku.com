@@ -1,7 +1,0 @@
-baseURL = "http://ramiteku.com/"
-languageCode = "en-us"
-title = "rami Technologies"
-theme = "hello-friend-ng"
- [languages.en.params.logo]
-      logoText = "rami $"
-      logoHomeLink = "/"
