@@ -3,7 +3,8 @@ copyright = "rami Technologies"
 languageCode = "en-us"
 title = "rami Technologies"
 theme = "hermit"
-bgImg = ""  # Homepage background-image URL
+themeColor = "#494f5c"
+
 [languages]
   [languages.en]
     title = "rami Technologies"
