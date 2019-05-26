@@ -77,7 +77,7 @@ disableHugoGeneratorInject = false
 
   # Default theme "light" or "dark"
   defaultTheme = "dark"
-  themeColor = "#252627"
+  #themeColor = "#073642"
 
   [params.logo]
     logoText     = "$ cd /home/"
